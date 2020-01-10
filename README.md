@@ -1,6 +1,6 @@
 # Chuck Norris Feed
 
-This is an small practice understand how to work with springboot, docker and mongodb
+This is an small exercise understand how to work with springboot, docker and mongodb
 
 To run the application
 
